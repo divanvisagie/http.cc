@@ -1,0 +1,24 @@
+{
+  "name": "http.c",
+  "version": "0.0.0",
+  "description": "dotc http module",
+  "main.c": "lib/http.c",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divanvisagie/http.c.git"
+  },
+  "keywords": [
+    "dotc"
+  ],
+  "author": "Divan Visagie <visagiedivan@gmail.com> (http://divcode.blogspot.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/divanvisagie/http.c/issues"
+  }
+}
