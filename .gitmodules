@@ -1,0 +1,3 @@
+[submodule "node.native"]
+	path = node.native
+	url = https://github.com/d5/node.native
